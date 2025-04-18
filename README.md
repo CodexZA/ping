@@ -1,12 +1,16 @@
-qb-paperwork is a lightweight QBox-compatible script that introduces a paperwork mode for police officers. While in paperwork mode, officers remain on duty and receive paychecks, but are excluded from duty-based script checks (e.g., for robberies or priority events).
+📁 qb-ping
+Description:
 
-This is ideal for situations where officers are handling investigations, reports, or jail processing without actively patrolling or responding to calls — helping balance server gameplay and ensuring fair crime scheduling.
+qb-ping adds a /ping [id] command that allows players to share their live location with another player by placing a GPS blip on the map. It's a seamless way to meet up with friends, respond to calls, or direct people without needing to explain coordinates or street names.
+
+Inspired by NoPixel's original mechanic, this script brings smooth, immersive player-to-player location sharing to your server.
 
 Why Use It:
 
-Keeps cops paid during non-patrol work
+Enhances roleplay by simplifying location sharing
 
-Balances robbery/event triggers by excluding passive officers
+Police, EMS, or civilians can all use it to coordinate
 
-Simple /paperwork toggle command with automatic cleanup
+Sends a map blip with auto-expiry and notifications
 
+Zero reliance on third-party UI or complicated systems
